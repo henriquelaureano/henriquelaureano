@@ -1,17 +1,16 @@
+[Twitter](https://twitter.com/hap_laureano) |
+[Tumblr](https://henriquelaureano.github.io/tumblr/) |
+[Spotify](https://open.spotify.com/user/12147941733) |
+[CV](https://henriquelaureano.github.io/vitae.pdf) |
+[LinkedIn](https://www.linkedin.com/in/henrique-laureano-025328179/)
+
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-pedroholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-holanda-5447335a/)](https://www.linkedin.com/in/pedro-holanda-5447335a/)
-[![Gmail Badge](https://img.shields.io/badge/-pedroholanda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroholanda@gmail.com)](mailto:pedroholanda@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@holanda_pe-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/holanda_pe)](https://twitter.com/holanda_pe)
+I'm a Statistician based in [Curitiba](https://goo.gl/K1Qcdv) and currently working in the
+[Pele Pequeno Príncipe Research Institute](http://www.pelepequenoprincipe.org.br/),
+part of the Pequeno Príncipe Complex. Pequeno Príncipe Hospital is the largest exclusively pediatric hospital in Brazil.
 
-## About me 
-I'm a Ph.D. candidate based in Amsterdam and a member of the Database Architecture group at CWI. My research is focused on adaptive physical layouts.
+I'm also a MSc student in Numerical Methods in Engineering @ [UFPR](https://goo.gl/DtVAbi) under the guidance of
+Professor [Wagner Bonat](http://www.leg.ufpr.br/~wagner/) and Professor [Paulo Justiniano](http://leg.ufpr.br/~paulojus/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can learn more about me [here](https://henriquelaureano.github.io).
