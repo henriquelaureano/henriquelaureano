@@ -7,10 +7,11 @@ I hold a BSc in Statistics (2016) and an MSc in Statistics and Numerical Methods
 handled mainly multivariate survival data through multinomial GLMMs. You may take a look [here](https://henriquelaureano.github.io/THESIS/thesis/thesis.pdf) at my
 thesis and [here ](https://henriquelaureano.github.io/THESIS/aqua/slides.pdf)( [.Rmd](https://henriquelaureano.github.io/THESIS/aqua/slides.Rmd) |
                                                                                [in_header file](https://henriquelaureano.github.io/THESIS/aqua/beamerheader.txt) |
-                                                                               [TikZ style](https://henriquelaureano.github.io/THESIS/aqua/tikzit.sty)) at the 
-defense slides.
+                                                                               [TikZ style](https://henriquelaureano.github.io/THESIS/aqua/tikzit.sty)) at
+the defense slides.
 
 My main research interests lie in computational statistics and statistical modeling through GLMMs, estimation equations, and bayesian and likelihood-based methods.
-Besides the theoretical background, I love to analyze data and make pretty and useful visualizations.
+Besides the theoretical background, I love to analyze data and make pretty and useful visualizations (I ensembled some
+[here](https://henriquelaureano.github.io/visualizations)).
 
 You can learn more about me on my [page](https://henriquelaureano.github.io).
